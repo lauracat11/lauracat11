@@ -14,8 +14,8 @@ Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo e
 Me considero una apasionada de todo lo relacionado con la  informática con muchas ganas de aprender. Soy responsable, trabajadora y ordenada, me adapto fácilmente en cualquier entorno laboral, gestionando diferentes tareas a la vez. En busca de una oportunidad con la que adquirir más experiencia y poder desarrollar mis habilidades. 
 
 ## Educación
-- **Grado en curso**: Nombre del programa, Universidad/Institución.
-- **Grado en curso**: Nombre del programa, Universidad/Institución.
+- **Grado en curso**: Grado Superior en Administración de Sistemas Informáticos y Redes, Instituto Les Salines.
+- **Grado en curso**:  Ciclo Superior de Informática en Desarrollo de Aplicaciones Web, Instituto Les Salines.
 
 ## Habilidades técnicas
 - Lenguajes de programación:
@@ -26,11 +26,6 @@ Me considero una apasionada de todo lo relacionado con la  informática con much
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
-
-- Tecnologías:
-
-<div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit"/>
@@ -55,6 +50,6 @@ Me considero una apasionada de todo lo relacionado con la  informática con much
 ## Contacto
 Puedes encontrarme en los siguientes enlaces:
 
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Correo electrónico](tu correo electrónico)
+- [LinkedIn](https://www.linkedin.com/in/laura-catal%C3%A1n-ruiz/)
+- [Correo electrónico](lauracatalanruiz11@gmail.com)
 
