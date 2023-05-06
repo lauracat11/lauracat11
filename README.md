@@ -1,5 +1,9 @@
-## Hola, Soy Laura 👑
-### Una estudiante de desarrollo *Fullstack* 👩‍💻
+<div id="header" align ="center">
+  <h1> Hola, Soy Laura 👑</h1>
+ <h2> Una estudiante de desarrollo *Fullstack* 👩‍💻</h2>
+  
+  ![img1](/img/pigdeveloper.gif)
+</div>
 
 <!--
 **lauracat11/lauracat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
