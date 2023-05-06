@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hola, Soy Laura 👑
+### Una estudiante de desarrollo *Fullstack* 👩‍💻
 
 <!--
 **lauracat11/lauracat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
