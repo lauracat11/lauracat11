@@ -3,7 +3,7 @@ Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo e
 -->
 <div id="header" align ="center">
   <h1> Hola, Soy Laura 👑</h1>
-  <h2> Una estudiante de desarrollo *Fullstack* 👩‍💻</h2>
+  <h2> Una estudiante de desarrollo Fullstack 👩‍💻</h2>
   
   ![img1](/img/pigdeveloper.gif)
   
@@ -15,7 +15,7 @@ Me considero una apasionada de todo lo relacionado con la  informática con much
 
 ## Educación
 - **Grado en curso**: Grado Superior en Administración de Sistemas Informáticos y Redes, Instituto Les Salines.
-- **Grado en curso**:  Ciclo Superior de Informática en Desarrollo de Aplicaciones Web, Instituto Les Salines.
+- **Grado en curso**: Grado Superior de  en Desarrollo de Aplicaciones Web, Instituto Les Salines.
 
 ## Habilidades técnicas
 - Lenguajes de programación:
