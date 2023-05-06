@@ -1,21 +1,13 @@
+<!--
+Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo en el centro utilizo la sintaxia con divs
+-->
 <div id="header" align ="center">
   <h1> Hola, Soy Laura 👑</h1>
- <h2> Una estudiante de desarrollo *Fullstack* 👩‍💻</h2>
+  <h2> Una estudiante de desarrollo *Fullstack* 👩‍💻</h2>
   
   ![img1](/img/pigdeveloper.gif)
+  
+  <h3>✨Trabaja en SILENCIO deja que tu EXITO haga ruido✨</h3>
 </div>
 
-<!--
-**lauracat11/lauracat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
