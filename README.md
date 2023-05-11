@@ -18,7 +18,7 @@ Para la encabezada de esta carta presentacion, queria posicionarla en el centro 
   
 </div>
 <!--
-Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo en el centro utilizo la sintaxia con divs
+Siguiendo con markdown creo tres subapartados explicativos añadiendo negrita con ** ** y listas con -
 -->
 
 ## Acerca de mí
@@ -30,6 +30,11 @@ Me considero una apasionada de todo lo relacionado con la  informática con much
 
 ## Habilidades técnicas
 - Lenguajes de programación:
+
+<!--
+Para aportarle algo más personal y creativo. Utilizo html para traer imagenes de logotivos de programas, lenguajes, framworks y herramientas utilizados en el mundo del desarrollo. Aportando de una forma mas visual mi conocimiento
+-->
+
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -58,6 +63,10 @@ Me considero una apasionada de todo lo relacionado con la  informática con much
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+<!--
+Por ultimo creo un ultimo bloque donde enlazo urls con markdown.
+-->
 
 ## Contacto
 Puedes encontrarme en los siguientes enlaces:
