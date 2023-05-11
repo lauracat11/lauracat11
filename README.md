@@ -4,15 +4,18 @@ Para la primera parte de esta practica, queria centrarlo por lo que
 <div id="header" align ="center">
   
   
-  ## Hola, Soy Laura 👑
+  # Hola, Soy Laura 👑
   
   
-  #Una estudiante de desarrollo Fullstack 👩‍💻
+  ## Una estudiante de desarrollo Fullstack 👩‍💻
   
   
   ![img1](/img/pigdeveloper.gif)
   
-  <h3>✨Trabaja en SILENCIO deja que tu EXITO haga ruido✨</h3>
+  
+  ###✨Trabaja en SILENCIO deja que tu EXITO haga ruido✨
+  
+  
 </div>
 <!--
 Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo en el centro utilizo la sintaxia con divs
