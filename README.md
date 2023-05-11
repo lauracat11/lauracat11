@@ -1,5 +1,5 @@
 <!--
-Para la primera parte de esta practica, queria centrarlo por lo que 
+Para la encabezada de esta carta presentacion, queria posicionarla en el centro por lo que he utilizado <div> con el componente <align> para centrarlo. Dentro de este, con lenguaje Markdown he creado tres titulos con diferentes tamaños utilizando el simbolo #. Por algún motivo cunado se junta html y markdown crea conflicto por lo que para que funcione he tenido que separarlo mucho en el código aunque esto no se nota en la visulizacion final
 -->
 <div id="header" align ="center">
   
@@ -20,6 +20,7 @@ Para la primera parte de esta practica, queria centrarlo por lo que
 <!--
 Creo con contenido parecido al html un encabezado, debido a que quiero ponerlo en el centro utilizo la sintaxia con divs
 -->
+
 ## Acerca de mí
 Me considero una apasionada de todo lo relacionado con la  informática con muchas ganas de aprender. Soy responsable, trabajadora y ordenada, me adapto fácilmente en cualquier entorno laboral, gestionando diferentes tareas a la vez. En busca de una oportunidad con la que adquirir más experiencia y poder desarrollar mis habilidades. 
 
