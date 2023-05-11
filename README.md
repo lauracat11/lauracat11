@@ -13,7 +13,7 @@ Para la primera parte de esta practica, queria centrarlo por lo que
   ![img1](/img/pigdeveloper.gif)
   
   
-  ###✨Trabaja en SILENCIO deja que tu EXITO haga ruido✨
+  ### ✨Trabaja en SILENCIO deja que tu EXITO haga ruido✨
   
   
 </div>
